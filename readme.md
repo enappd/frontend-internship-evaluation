@@ -11,7 +11,7 @@ We are looking for attention to detail from code to things you submit. The code 
 
 * **Framework:** Next.js (App Router preferred)
 * **Styling:** Tailwind CSS
-* **Hosting:** Netlify or Vercel (Free Tier)
+* **Hosting:** Netlify (Free Tier)
 
 #### 2. The Application Requirements
 
