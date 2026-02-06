@@ -1,10 +1,11 @@
 ### Assignment: The Waitlist UI
 
 **Time Limit:** 2–3 Hours (Recommended)
+
 **Objective:** Build and deploy a specific waitlist page using Next.js.
 
-**The Context:**
-We are looking for attention to detail. The code is simple; following the specific constraints is the actual test.
+**Evaluation:**
+We are looking for attention to detail from code to things you submit. The code is simple; following the specific constraints is the actual test.
 
 #### 1. The Tech Stack
 
